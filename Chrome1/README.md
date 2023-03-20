@@ -1,6 +1,6 @@
 ## Making ChromeApp with Vanilla JS 
 
-### Day1
+### Chrom1
 
 How many programming languages can you use on the Frontend ? 
  - Only JavaScript
