@@ -8,3 +8,8 @@ How many programming languages can you use on the Frontend ?
 Can we make a video game using JavaScript?
  - Yes
 
+JavaScript comes installed with all the browsers.
+ - Yes
+
+How long did it take to create JavaScript?
+ - 10 days
