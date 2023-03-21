@@ -3,34 +3,32 @@
 ### Chrome02
 
 2 and 2.2 are both integers ? 
- - No
+ - No.
 
-What is the data type of "<img src="https://img.shields.io/badge/2-007396?style=flat-square&logo=java&logoColor=white"> "?
+What is the data type of "2"?
+ - string
+
+'hello' is the same as "hello"
  - Yes
 
+A variable can only hold number values.
+ - No.
 
-
-
-JavaScript comes installed with all the browsers.
- - Yes
-
-How long did it take to create JavaScript?
- - 10 days
-
-Why was JavaScript created?
- - To add interactivity to Websites
+After creation, we can change the value of a const.
+ - No.
  
-To use JavaScript on a website we need to download it first
- - No
+After creation, we can change the value of a let.
+ - Yes.
   
-To execute a JS file, we need to open it on a browser.
- - No
+"true" is a boolean value.
+ - No.
   
-How can we 'run' JS files on the browser?
- - We open a HTML file that imports the JS file.
+null and undefined are the same type.
+ - No.
   
- What can we do with the console of the browser?
- - We can write Javascript code.
+Why do we use an array for?
+ - To organize values on a list.
   
-How many programming languages can you use on the Backend?
- - More than 10
+How can I get the second element of an array?
+ - arr[1]
+
