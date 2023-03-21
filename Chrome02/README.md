@@ -32,3 +32,5 @@ Why do we use an array for?
 How can I get the second element of an array?
  - arr[1]
 
+How can I access the name property of an object player?
+ - player["name"]
