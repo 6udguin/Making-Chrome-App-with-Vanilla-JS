@@ -8,7 +8,7 @@
 What is the data type of <strong background>"2"</strong>?
  - Yes
 
-https://img.shields.io/badge/<LABEL>-<MESSAGE>-<BACKGROUND-COLOR>?logo=<LOGO>&logoColor=<LOGO-COLOR>&style=<STYLE>
+"https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"
 
 
 JavaScript comes installed with all the browsers.
