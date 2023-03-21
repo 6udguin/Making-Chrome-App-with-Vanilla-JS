@@ -5,10 +5,10 @@
 2 and 2.2 are both integers ? 
  - No
 
-What is the data type of <img src="https://img.shields.io/badge/2-007396?style=flat-square&logo=java&logoColor=white">?
+What is the data type of "<img src="https://img.shields.io/badge/2-007396?style=flat-square&logo=java&logoColor=white"> "?
  - Yes
 
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
+
 
 
 JavaScript comes installed with all the browsers.
