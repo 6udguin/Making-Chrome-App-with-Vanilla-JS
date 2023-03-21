@@ -5,8 +5,11 @@
 2 and 2.2 are both integers ? 
  - No
 
-What is the data type of <strong>"2"</strong>?
+What is the data type of <strong background>"2"</strong>?
  - Yes
+
+https://img.shields.io/badge/<LABEL>-<MESSAGE>-<BACKGROUND-COLOR>?logo=<LOGO>&logoColor=<LOGO-COLOR>&style=<STYLE>
+
 
 JavaScript comes installed with all the browsers.
  - Yes
