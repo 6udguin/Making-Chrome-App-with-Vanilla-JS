@@ -1,36 +1,69 @@
 ## Making ChromeApp with Vanilla JS 
 
-### Chrome02
+### Chrome03
 
-2 and 2.2 are both integers ? 
+Why do we use functions? 
+ - To encapsulate a piece of code.
+
+How can we 'run' a function?
+ - We write nameOfFunc + () : nameOfFunc()
+
+Why do we use 'arguments' on functions?
+ - To send a value to a function.
+
+Fucntions can receive maximum 3 arguments.
  - No.
 
-What is the data type of "2"?
- - string
-
-'hello' is the same as "hello"
- - Yes
-
-A variable can only hold number values.
- - No.
-
-After creation, we can change the value of a const.
+Functions always have to receive arguments.
  - No.
  
-After creation, we can change the value of a let.
- - Yes.
+Why do we use 'return' on functions?
+ - To get a value from a function
   
-"true" is a boolean value.
+'return' is the same as 'console.log'
  - No.
   
-null and undefined are the same type.
- - No.
+What is the return value of "parseInt("2")?
+ - 2
   
-Why do we use an array for?
- - To organize values on a list.
+What is the return value of "parseInt("hello")?
+ - NaN
   
-How can I get the second element of an array?
- - arr[1]
+What is 'NaN'?
+ - Not a Number
 
-How can I access the name property of an object player?
- - player["name"]
+With this code
+<
+if(false){
+ console.log("hi")
+}else{
+ console.log("bye")
+}
+
+what will be printed on the console?
+ - bye
+
+with this code
+<
+if(8>10){
+ console.log("hi")
+}else if(8<10){
+ console.log("hello")
+}else{
+ console.log("bye")
+}
+>
+what will be printed on the console?
+ - hello
+
+8>5&&10>20 will be?
+ - false
+
+5>2||10<23 will be?
+ - true
+
+false && true will be?
+ - false
+
+true||false will be?
+ - true
